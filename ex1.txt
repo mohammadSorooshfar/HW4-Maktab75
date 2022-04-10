@@ -1,0 +1,4 @@
+alert will run because the if condition is true
+when you make a new number with the constructor it returns an object
+so it isn't falsy 
+Number {0}[[Prototype]]: Numberconstructor: ƒ Number()toExponential: ƒ toExponential()toFixed: ƒ toFixed()toLocaleString: ƒ toLocaleString()toPrecision: ƒ toPrecision()toString: ƒ toString()valueOf: ƒ valueOf()[[Prototype]]: Object[[PrimitiveValue]]: 0[[PrimitiveValue]]: 0
